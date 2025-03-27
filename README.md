@@ -5,9 +5,8 @@ I'm a **Software Architect** at Laerdal Medical, specializing in the **Microsoft
 ## 🚀 About Me
 - 🔭 Currently working on **medical software solutions** at Laerdal Medical.
 - ✈️ I've traveled to 30+ countries.
-- 🌱 Learning **Norwegian 🇳🇴** and **Russian 🇷🇺**.
 - 💡 Enthusiastic about **mobile technologies, C#, and sharing knowledge**.
-- 🏆 Former **Microsoft MVP** and **Startup CTO** in Toronto.
+- 🏆 Former **Microsoft MVP**, **Xamarin XSP** and **Startup CTO** in Toronto.
 - 🎤 Experienced in participating in over 20 hackathons as a participant, coach, and jury member.
 
 ## 🛠️ Tech Stack
